@@ -14,8 +14,4 @@ Perfect for improving text accuracy in your projects or learning about natural l
 
 ---
 
-## 📦 Installation  
-1. **Clone this repository**  
-```bash
-git clone https://github.com/your-username/spelling-checker.git
-cd spelling-checker
+
